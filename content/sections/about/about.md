@@ -3,12 +3,15 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Com mais de uma década de experiência como 💻 desenvolvedor, sou apaixonado por astronomia, tecnologia, ciência e transformar ideias em realidade. Minha jornada profissional inclui oportunidades valiosas em startups, onde aprimorei minhas habilidades em desenvolvimento e sistemas legados. Também mergulhei na infraestrutura, lidando com switches, PABX, telefonia VoIP e muito mais.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Ao longo da minha carreira, assumi papéis de liderança, gerenciando equipes de tecnologia e equipes de desenvolvimento. Valorizo o trabalho em equipe e acredito que cada membro é fundamental.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Fora do mundo profissional, sou pai do Yan ❤️ e minha família é meu porto seguro. Apesar de ser conhecido por ser workaholic, busco equilibrar minhas paixões com meu amor pela família. Sou entusiasta de 🎮 games e 🏃 esportes, mesmo que o tempo seja sempre um desafio.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Além disso, estou em constante aprimoramento, sou estudante de inglês e estou adorando conseguir me comunicar nessa língua. Em breve, planejo transcrever esse site em inglês, tá? rs.
+
+
+
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
